@@ -1,0 +1,16 @@
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorage DemoApp.csproj.GenerateResource.Cache
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\DemoApp.Form1.resources
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\DemoApp.Properties.Resources.resources
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageDemoApp.exe
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageDemoApp.pdb
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageDemoApp.exe
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageDemoApp.pdb
+D:\Open\WebStorage DemoApp\obj\Debug\WebStorageDemoApp.exe
+D:\Open\WebStorage DemoApp\obj\Debug\WebStorageDemoApp.pdb
+D:\Open\WebStorage DemoApp\bin\Debug\WebStorageDemoApp.exe
+D:\Open\WebStorage DemoApp\bin\Debug\WebStorageDemoApp.pdb
+D:\Open\WebStorage DemoApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Open\WebStorage DemoApp\obj\Debug\DemoApp.Form1.resources
+D:\Open\WebStorage DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+D:\Open\WebStorage DemoApp\obj\Debug\WebStorage DemoApp.csproj.GenerateResource.Cache

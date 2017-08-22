@@ -1,0 +1,16 @@
+E:\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageContentProfiler.exe
+E:\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageContentProfiler.pdb
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\ResolveAssemblyReference.cache
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\EeeUploader.Form1.resources
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\Uploader.Properties.Resources.resources
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorage Content Profiler.csproj.GenerateResource.Cache
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageContentProfiler.exe
+E:\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageContentProfiler.pdb
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageContentProfiler.exe
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorageContentProfiler.pdb
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\EeeUploader.Form1.resources
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\Uploader.Properties.Resources.resources
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\obj\Debug\WebStorage Content Profiler.csproj.GenerateResource.Cache
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageContentProfiler.exe
+C:\Users\Peter\Desktop\WebStorage Content Profiler (Approxy)\bin\Debug\WebStorageContentProfiler.pdb
